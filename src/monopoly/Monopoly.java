@@ -12,7 +12,7 @@ public class Monopoly {
        
         TextTerminal terminal = new TextTerminal();
         
-        terminal.show("pitorrin");
+        terminal.show("Hola");
        
         
         
