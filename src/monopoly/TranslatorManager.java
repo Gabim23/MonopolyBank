@@ -8,9 +8,6 @@ package monopoly;
  *
  * @author gabig
  */
-public class prueba {
-    
-    
-    
+public class TranslatorManager {
     
 }

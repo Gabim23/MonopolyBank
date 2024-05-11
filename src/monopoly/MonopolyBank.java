@@ -5,7 +5,7 @@ package monopoly;
  *
  * @author gabig
  */
-public class Monopoly {
+public class MonopolyBank {
 
     public static void main(String[] args) {
         
