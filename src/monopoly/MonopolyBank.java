@@ -10,7 +10,7 @@ public class MonopolyBank {
     public static void main(String[] args) {
         
        
-        TextTerminal terminal = new TextTerminal();
+        Terminal terminal = new Terminal();
         
         terminal.show("Hola");
        

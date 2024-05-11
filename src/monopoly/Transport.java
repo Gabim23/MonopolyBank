@@ -8,6 +8,8 @@ package monopoly;
  *
  * @author gabig
  */
-public class Transport {
+public class Transport extends Property {
+    
+    private int[] costStaying = new int[4];
     
 }

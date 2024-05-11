@@ -7,11 +7,11 @@ import java.util.Scanner;
  *
  * @author gabig
  */
-public class TextTerminal {
+public class Terminal {
     
     private Scanner scanner;
 
-    public TextTerminal(){
+    public Terminal(){
         this.scanner = new Scanner(System.in);
     }
 

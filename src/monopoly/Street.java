@@ -1,13 +1,16 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
+
 package monopoly;
 
 /**
  *
  * @author gabig
  */
-public class Street {
+public class Street extends Property {
+    
+    
+    private int builtHouses;
+    private int housePrice;
+    private int[] costStayingWithHouses = new int[6];
+    
     
 }
